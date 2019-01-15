@@ -15,7 +15,7 @@ sdfsfff
 
 r
 =======
-happy new year
+new year
 hello
 >>>>>>> 65fb492c0bf2e87cf3347d211a23941429d73440
 >>>>>>> e0cd770fa17f85a4f5aaf0a9cccee4677750a174
