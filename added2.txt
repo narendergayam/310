@@ -1,5 +1,6 @@
 added2.txt
 
 
-bla bla bla
 changed
+
+Hi. I'm Good
