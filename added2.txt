@@ -4,3 +4,5 @@ added2.txt
 changed
 
 Hi. I'm Good
+
+Creating Conflict
